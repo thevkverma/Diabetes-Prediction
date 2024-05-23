@@ -19,3 +19,4 @@ DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 
 Outcome: Class variable (0 or 1)
+#### Workflow of app.py
