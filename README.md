@@ -20,3 +20,8 @@ Age: Age (years)
 
 Outcome: Class variable (0 or 1)
 #### Workflow of app.py
+![1](https://github.com/thevkverma/Diabetes-Prediction/assets/155144399/3fc2cac8-4941-4498-8723-bdc8c8a04d3e)
+
+![2](https://github.com/thevkverma/Diabetes-Prediction/assets/155144399/565d1fbd-3a10-4174-b3aa-5d47d0c095da)
+
+![3](https://github.com/thevkverma/Diabetes-Prediction/assets/155144399/2bc4b569-4a6e-47f6-a89f-07742541c7c1)
